@@ -1,0 +1,11 @@
+.ExpenseDate {
+  border: 1px solid #ececec;
+  border-radius: 15px;
+  color: #ececec;
+  padding: 10px;
+  background-color: #40005d;
+}
+
+.ExpenseDate-day {
+  font-size: 2rem;
+}
